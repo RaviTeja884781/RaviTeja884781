@@ -44,7 +44,7 @@ I'm currently diving deeper into the MERN stack and learning more about data str
 
 ## 👨🏻‍💻 My Personal Projects
 
-- working on open source component library called react-uiessentials
+- working on open source component library called react-ui-essentials
 - working on educational website
 
 ## 🤝 How to Reach Me
