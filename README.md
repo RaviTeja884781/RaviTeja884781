@@ -2,7 +2,7 @@
 
 I'm a software engineer from India IN. 👋
 
-- I'm a passionate MERN Stack Developer with 2 years of experience in building and maintaining responsive websites. Proficient in HTML, CSS, JavaScript; plus modern libraries and frameworks such as React.js, Node.js, Express.js, and MongoDB.
+- I'm a passionate React Js Developer with 2 years of experience in building and maintaining responsive websites. Proficient in HTML, CSS, JavaScript; plus modern libraries and frameworks such as React.js, Node.js, Express.js, and MongoDB.
 
 - As a Software Engineer specializing in React.js frontend development, I bring a strong foundation in building dynamic and intuitive user interfaces. With a proven track record of delivering high-quality web applications, I am skilled in translating design mockups into responsive and engaging UI components.
 
