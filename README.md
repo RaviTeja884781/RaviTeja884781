@@ -2,7 +2,7 @@
 
 I'm a software engineer from India IN. 👋
 
-- I'm a passionate MERN Stack Developer with 1.5 years of experience in building and maintaining responsive websites. Proficient in HTML, CSS, JavaScript; plus modern libraries and frameworks such as React.js, Node.js, Express.js, and MongoDB.
+- I'm a passionate MERN Stack Developer with 2 years of experience in building and maintaining responsive websites. Proficient in HTML, CSS, JavaScript; plus modern libraries and frameworks such as React.js, Node.js, Express.js, and MongoDB.
 
 - As a Software Engineer specializing in React.js frontend development, I bring a strong foundation in building dynamic and intuitive user interfaces. With a proven track record of delivering high-quality web applications, I am skilled in translating design mockups into responsive and engaging UI components.
 
@@ -36,7 +36,7 @@ I'm a software engineer from India IN. 👋
 
 ## 📈 Experience
 
-I have 1.5 years of experience in MERN Stack Development. I have worked on several projects where I was responsible for both front-end and back-end development. I have a knack for writing clean, readable, and maintainable code.
+I have 2 years of experience in React Js. I have worked on several projects where I was responsible for front-end development. I have a knack for writing clean, readable, and maintainable code.
 
 ## 🌱 What I'm Learning
 
@@ -44,7 +44,7 @@ I'm currently diving deeper into the MERN stack and learning more about data str
 
 ## 👨🏻‍💻 My Personal Projects
 
-- working on open source component library called react-ui-essentials
+- working on open source component library called react-ui-essentials, react-ui-essentials-icons
 - working on educational website
 
 ## 🤝 How to Reach Me
@@ -52,11 +52,7 @@ I'm currently diving deeper into the MERN stack and learning more about data str
 Feel free to reach out to me for any collaboration, project or just for a chat. You can find me on:
 
 - LinkedIn: https://www.linkedin.com/in/ravi-teja-2a2989145
-- Email: ladi.ravi884781@gmail.com
+- Email: ladi.ravi884781@gmail.com, raviteja884781@gmail.com
 - Phone No: 8847819634 (Mobile)
-
-## ⚡ Fun Fact
-
-When I'm not coding, you can find me reading books or playing video games.
 
 Let's connect and build something awesome together! 😊
